@@ -1,14 +1,11 @@
-# ai-for-the-arts
-# Course Project Repository
+# AI for the Arts and Humanities Portfolio  
 
 ## Purpose of this Repository  
-This repository is created to track my progress in the course and store all related project files, assignments, and exercises. It will serve as a space to practice and improve my coding skills while learning new concepts.
+This repository serves as a portfolio for exploring how AI can be applied to the arts and humanities. It will contain project files, research, and documentation related to AI-generated art, literature analysis, and digital humanities.  
 
-## Goals for the End of the Course  
-By the end of this course, I aim to:  
-- Understand the fundamentals of version control using Git and GitHub.  
-- Complete all course assignments and projects.  
-- Improve my ability to collaborate using Git branches and pull requests.  
-- Build a final project that demonstrates my learning.  
-
-This repository will help me stay organized and track my growth throughout the course.
+## Goals  
+- Learn GitHub basics (branches, commits, pull requests).  
+- Understand how AI is used in creative and academic fields.  
+- Work on projects that combine AI with art and humanities.  
+- Improve collaboration skills using version control.  
+- Create a final portfolio showcasing AI-powered projects.  
