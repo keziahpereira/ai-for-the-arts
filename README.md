@@ -1,4 +1,4 @@
-# AI for the Arts and Humanities Portfolio  
+# AI for the Arts and Humanities Portfolio                           2791720P
 
 ## Purpose of this Repository  
 This repository serves as a portfolio for exploring how AI can be applied to the arts and humanities. It will contain project files, research, and documentation related to AI-generated art, literature analysis, and digital humanities.  
