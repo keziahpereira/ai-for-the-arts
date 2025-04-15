@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # AI for the Arts and Humanities Portfolio                           2791720P
 =======
 AI for the Arts and Humanities Portfolio
